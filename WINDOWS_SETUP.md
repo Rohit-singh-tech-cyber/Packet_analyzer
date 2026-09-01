@@ -191,7 +191,7 @@ WSL lets you run Linux inside Windows - easiest if you're comfortable with Linux
 4. After restart, Ubuntu will open automatically
    - Create a username and password when asked
 
-### Step 2: Install Build Tools
+### Step 2: Install  Tools
 
 In the Ubuntu terminal:
 
